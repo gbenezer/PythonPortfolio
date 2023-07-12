@@ -1,0 +1,1 @@
+This is a directory devoted to working through the book "Python Programming And Numerical Methods: A Guide For Engineers And Scientists" by Qingkai Kong, Timmy Siauw, and Alexandre Bayen
